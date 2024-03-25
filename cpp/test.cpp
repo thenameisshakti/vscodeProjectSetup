@@ -11,7 +11,7 @@ int main() {
     cin >> num2;
     int sum = num1 + num2;
 
-    cout << "Hey CPP Sweetie is sweet";
+    cout << "Hey CPP Sweetie is sweet \n";
     return 0;
 }
 
